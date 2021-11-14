@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imon360&label=Profile%20views&color=0e75b6&style=flat" alt="imon360" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imon360" alt="imon360" /></a> </p>
-
 - 🔭 I’m currently working on **Bengali Scientist**
 
 - 👨‍💻 All of my projects are available at [https://imonhasan.com](https://imonhasan.com)
