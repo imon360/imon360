@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imon Hasan</h1>
 <h3 align="center">Web Developer and WordPress Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imon360&label=Profile%20views&color=0e75b6&style=flat" alt="imon360" /> </p>
-
 - 🔭 I’m currently working on **Bengali Scientist**
 
 - 👨‍💻 All of my projects are available at [https://imonhasan.com](https://imonhasan.com)
